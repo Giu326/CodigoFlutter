@@ -1,0 +1,1 @@
+const background = "assets/images/background.png";
